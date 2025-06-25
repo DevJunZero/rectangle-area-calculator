@@ -29,3 +29,36 @@ Users can enter the **width and height** in different units and choose the **des
 ```bash
 git clone https://github.com/your-username/rectangle-area-calculator.git
 cd rectangle-area-calculator
+
+2. Run the script:
+python3 rectangle_area_calculator_v2.py
+
+🖥️ Example
+🧮 Rectangle Area Calculator
+This program allows you to calculate the area of a rectangle
+with width and height in different units.
+
+🔧 Steps:
+1. Choose unit for width
+2. Enter width value
+3. Choose unit for height
+4. Enter height value
+5. Choose unit for the result
+
+Choose width unit:
+1 - m
+2 - cm
+3 - mm
+4 - in
+Enter unit number: 2
+Enter width (cm): 150
+...
+
+✅ Calculation complete.
+Rectangle area: 45000.00 cm²
+
+📄 License
+MIT License (optional — can be added later)
+
+🙌 Author
+Created by DevJunZero – feel free to fork, star, or contribute!
