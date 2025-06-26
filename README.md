@@ -57,6 +57,20 @@ Enter width (cm): 150
 ✅ Calculation complete.
 Rectangle area: 45000.00 cm²
 
+## 🧪 Tests
+
+This project includes unit tests for the core function `calculate_area()`.
+
+To run the tests:
+
+```bash
+python3 -m unittest test_rectangle_area.py
+The tests cover:
+
+✅ Valid input
+🚫 Zero and negative values
+🧨 Non-numeric input types
+
 📄 License
 MIT License (optional — can be added later)
 
